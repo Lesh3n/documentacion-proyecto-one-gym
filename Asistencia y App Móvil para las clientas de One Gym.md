@@ -16,10 +16,13 @@ Usaremos MySQL debido a que este es de código abierto y se puede utilizar a tra
 Para el desarrollo de la aplicación móvil y Glue Stack para los componentes de las interfaces
 - [Documentacion React Native](https://reactnative.dev/docs/getting-started)
 - [Gluestack - Documentación del Framework para componentes UI](https://gluestack.io/)
+- [Curso REACT NATIVE para Principiantes con Expo Pt.1 - Midudev](https://www.youtube.com/watch?v=U23lNFm_J70)
+- [Curso REACT NATIVE Pt.2 Rutas dinamicas, navegacion, UI (NOTA IGNORAR TAILWIND CSS PORQUE USAREMOS GLUE STACK!!!!!)](https://www.youtube.com/watch?v=ZDoiMLqWz2E)
 ### Python
 - [The Python Handbook For Beginners - Free Code Camp (Ingles)](https://www.freecodecamp.org/news/the-python-guide-for-beginners/)
 - [El Libro de Python (Web para aprender Python como si de un libro se tratase)](https://ellibrodepython.com/)
 - [Curso de Python de 10 Hrs - Mouredev](https://www.youtube.com/watch?v=Kp4Mvapo5kc)
+- [Curso Master en Python Completo PT. 1](https://www.youtube.com/watch?v=M7qr5Tib9gw)
 #### Librerías
 Para gestionar los proyectos podríamos usar [Rye](https://rye.astral.sh/)
 ##### Reconocimiento Facial
@@ -30,7 +33,8 @@ Servidor web para la Rest API para la app y la asistencia en el reconocimiento f
 - [Documentación del framework](https://www.djangoproject.com/)
 - [Documentación del framework del Rest API](https://www.django-rest-framework.org/)
 - [Curso de Django - Fazt](https://www.youtube.com/watch?v=T1intZyhXDU)
-- Poner cursos de Rest Framework de Fazt
+- [Curso Django Rest Framework - Fazt](https://www.youtube.com/watch?v=GE0Q8YNKNgs)
+- [Curso Django Rest Framework Autenticacion y Tokens - Fazt (para logins)](https://www.youtube.com/watch?v=Gr_QsOifaro)
 ##### Envío de correos con mensaje motivacional de IA
 - Hacer que GPT (API) pueda escribir correos y enviarlos a traves de Python https://github.com/iansamir/email-bot
 - Enviar correos desde Rest API a cualquier plataforma de correos https://www.youtube.com/watch?v=XQSk0KJoxB8
